@@ -7,7 +7,7 @@ This project consists of two parts;
   * Approach 1 - Word Count Vectorization
   * Approach 2 - Neural Network Based Sentiment Classification
 
-* **Part II - Image Classification on the AI Quick Draw Dataset
+* **Part II** - Image Classification on the AI Quick Draw Dataset
 
 This repository contains two .ipynb files for each part
   * > [PA2_Part1.ipynb](PA2_Part1.ipynb)
